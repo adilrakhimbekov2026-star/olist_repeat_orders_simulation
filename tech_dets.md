@@ -106,3 +106,8 @@ The dataset, despite its large size, has a limited range of feature values, maki
     <li>Scikit-learn</li>
     <li>CatBoost</li>
 </ul>
+
+
+<p>
+Optional: check the <a href="initial_preprint.txt">Authentic Preprint (russian)</a> for initial notes and personal observations.
+</p>
